@@ -88,12 +88,12 @@ next_word_pred/
 
 ### Home Screen
 
-![Home Screen](<img width="1890" height="848" alt="screenshotnxt1 png" src="https://github.com/user-attachments/assets/6bef574a-a7b2-4e58-b757-09319dcbee23" />)
+![![App Screenshot](<img width="1890" height="848" alt="screenshotnxt1 png" src="https://github.com/user-attachments/assets/6bef574a-a7b2-4e58-b757-09319dcbee23" />)]
 
 
 ### Prediction Result
 
-![Prediction Result](<img width="1894" height="818" alt="screenshotnxt2 png" src="https://github.com/user-attachments/assets/5a4230cc-ddaf-47ed-89b9-3a0d0b49338e" />)
+![![App Screenshot](<img width="1894" height="818" alt="screenshotnxt2 png" src="https://github.com/user-attachments/assets/5a4230cc-ddaf-47ed-89b9-3a0d0b49338e" />)]
 
 ---
 
